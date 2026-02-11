@@ -37,9 +37,10 @@
 
 ## 🔗 Links
 
-- [JARVIS GitHub Repository]([https://github.com/AvanishSalunke/JARVIS])
-- [Project Screenshots/Drive]([https://drive.google.com/file/d/15fnSe0cmP6KMx7TNQFHTI_s4OBqTKdkt/view?usp=sharing])
-- [Hosted Website]([https://jarvis-byte-me.vercel.app/]) (NOTE : Follow Readme guidelines for this)
+- [JARVIS GitHub Repository](https://github.com/AvanishSalunke/JARVIS)
+- [Demo Video](https://drive.google.com/file/d/1YHTXJ039-0BMUSAR2ywKhkW_ldYyeOsM/view?usp=sharing)
+- [Project Screenshots/Drive](https://drive.google.com/file/d/15fnSe0cmP6KMx7TNQFHTI_s4OBqTKdkt/view?usp=sharing)
+- [Hosted Website](https://jarvis-byte-me.vercel.app/) (NOTE : Follow Readme guidelines for this)
 
 ## 🤖 Tech-Stack
 
